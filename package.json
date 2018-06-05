@@ -1,0 +1,25 @@
+{
+  "name": "jake",
+  "version": "1.0.0",
+  "description": "Mel ala de npm o ano, essa semana!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viictor1224/npm.git"
+  },
+  "author": "\u001b[A\u001b[C\u001b[BXavier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viictor1224/npm/issues"
+  },
+  "homepage": "https://github.com/viictor1224/npm#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.5"
+  }
+}
